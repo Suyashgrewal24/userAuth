@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "name": "Suyash Grewal",
+      "email": "suyashgrewal32@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "yash Grewal",
+      "email": "yash@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "Joey",
+      "email": "Joey@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "ashu grewal",
+      "email": "ashu@gmail.com",
+      "password": "12345678",
+      "id": 4
+    },
+    {
+      "name": "Suyash",
+      "email": "ss@gmail.com",
+      "password": "111111",
+      "id": 5
+    }
+  ]
+}
